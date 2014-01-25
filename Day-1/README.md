@@ -15,3 +15,5 @@
 3. Explain how the github repo works, and get everyone to load up the first tutorial.
 
 4. Lets make cool stuff with Unity3D now! (every day after the first probably starts with step 4)
+
+5. An interactive preview of what the tutorials help you learn to develop can be found here: http://codegiraffe.com/unity/tut_web.html
