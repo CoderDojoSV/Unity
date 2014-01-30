@@ -12,7 +12,7 @@
 
 2. Install Unity3D on everyone's computer, and get everyone on the internet.
 
-3. Explain how the github repo works, and get everyone to load up the first tutorial.
+3. Explain how the GitHub repo works, and get everyone to load up the first tutorial.
 
 4. Lets make cool stuff with Unity3D now! (every day after the first probably starts with step 4)
 
