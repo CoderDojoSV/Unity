@@ -7,7 +7,7 @@
 		4. want to learn more about Game Development!
 	* I'm Michael V, the presenter. I'm a game developer, and undergraduate computer science professor, and author of the tutorials we'll be following in this class.
 	* This class is about making a positive learning and working environment to explore a short series of tutorials I've developed for teaching Unity3D.
-		1. This isn't a great place to play Minecraft, or web games, or surf the internet.
+		1. This isn't a great place to play Minecraft, or web games, or surfing the internet.
 		2. If you want to learn more but feel stuck, tell me! I will do what I can to make this a better place to learn, however I can.
 
 2. Install Unity3D on everyone's computer, and get everyone on the internet.
