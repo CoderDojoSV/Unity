@@ -2,6 +2,6 @@
 
 2. Make sure everyone has Unity3D and internet access
 
-3. Make sure everyone knows where to get stuff using github
+3. Make sure everyone knows where to get stuff using GitHub
 
 4. Lets make cool stuff with Unity3D now!
